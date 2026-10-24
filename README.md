@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts the star rating (1 to 5) of a product review and labels its sentiment as **Positive**, **Neutral** or **Negative**. It is built with scikit-learn and Streamlit.
 
-**Live demo:** _add your Streamlit Cloud link here_
+**Live demo:**https://review-sentiment-predictor.streamlit.app/
 
 ## How it works
 
